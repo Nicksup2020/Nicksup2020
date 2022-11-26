@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nicksup2020
-- 👀 I’m interested in Python.
-- 🌱 I’m currently still in the the initiials.
+- 👀 I’m interested in Python Development
+- 🌱 I’m currently still in the the initials
 - 💞️ I’m looking to collaborate on basic applications
 - 📫 You can reach on raunak.sanil@gmail.com
 <!---
